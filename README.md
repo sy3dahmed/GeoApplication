@@ -52,9 +52,7 @@ We welcome contributions to enhance GeoSpyTia. To contribute:
 1. Fork the repository.
 2. Create a feature branch:
    bash
-   git checkout -b feature-name
-   
-3. Submit a pull request with a detailed explanation of your changes.
+
 
 
 
